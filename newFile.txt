@@ -1,0 +1,3 @@
+"Hello"
+This is newFile.
+This file has been modified.
